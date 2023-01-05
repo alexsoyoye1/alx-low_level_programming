@@ -13,7 +13,7 @@
  *
  */
 
-int check(int a, int b) 
+int check(int a, int b)
 {
 	if (a * a == b)
 		return (a);
@@ -33,7 +33,7 @@ int check(int a, int b)
  *
  */
 
-int _sqrt_recursion(int n) 
+int _sqrt_recursion(int n)
 {
 	if (n == 0)
 		return (0);
